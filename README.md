@@ -1,5 +1,7 @@
 # Microsoft delivery — discovery & scoping kit
 
+[![CI](https://github.com/derekgallardo01/ms-delivery-discovery-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/derekgallardo01/ms-delivery-discovery-kit/actions/workflows/ci.yml)
+
 A reusable kit for the first phase of any Microsoft / Power Platform
 engagement: a structured **discovery questionnaire** that surfaces
 requirements, constraints, and risks up front, and a **statement-of-work
