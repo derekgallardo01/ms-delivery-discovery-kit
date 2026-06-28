@@ -1,0 +1,24 @@
+{
+  "repo": "ms-delivery-discovery-kit",
+  "title": "Microsoft Delivery \u2014 Discovery & Scoping Kit",
+  "tagline": "Structured discovery questionnaire + SOW template with a placeholder linter that gates pre-send.",
+  "kicker": "Consulting \u00b7 Discovery \u00b7 Engagement Kit",
+  "features": [
+    {
+      "label": "Templates",
+      "value": "Discovery + SOW"
+    },
+    {
+      "label": "Examples",
+      "value": "2 worked engagements"
+    },
+    {
+      "label": "Linter",
+      "value": "Placeholder gate"
+    }
+  ],
+  "theme": {
+    "primary": "#1f4e5f",
+    "accent": "#3a7f8d"
+  }
+}
